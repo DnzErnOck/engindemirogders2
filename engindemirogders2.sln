@@ -9,11 +9,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "engindemirogders2donguler",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "engindemirogders2ClassIntro", "engindemirogders2ClassIntro\engindemirogders2ClassIntro.csproj", "{FBF5F473-5B5A-4C08-8852-451E1BFE18C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodlarEnginhocaDers3", "MetodlarEnginhocaDers3\MetodlarEnginhocaDers3.csproj", "{8E106465-4927-4DCF-B303-094500356765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodlarEnginhocaDers3", "MetodlarEnginhocaDers3\MetodlarEnginhocaDers3.csproj", "{8E106465-4927-4DCF-B303-094500356765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metamatik", "Metamatik\Metamatik.csproj", "{E56A6BBD-65F2-46C4-8BFB-3777376D0CA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metamatik", "Metamatik\Metamatik.csproj", "{E56A6BBD-65F2-46C4-8BFB-3777376D0CA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{8647C6EC-14F3-49D2-B93E-BB7ECFBD6044}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{8647C6EC-14F3-49D2-B93E-BB7ECFBD6044}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{EC0D033F-7083-41FE-86E9-C33E660F902B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{253CCFD3-90A4-4AAB-BCC6-BD6C298FE612}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{C2D0DB90-36B1-4DEF-A96A-6B1C375B7C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{F9C108A1-9E7F-45A7-8FF5-8793F71BF967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{6541D646-1A30-4523-81F3-B0BD7AA56CB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{8647C6EC-14F3-49D2-B93E-BB7ECFBD6044}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8647C6EC-14F3-49D2-B93E-BB7ECFBD6044}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8647C6EC-14F3-49D2-B93E-BB7ECFBD6044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0D033F-7083-41FE-86E9-C33E660F902B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0D033F-7083-41FE-86E9-C33E660F902B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0D033F-7083-41FE-86E9-C33E660F902B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0D033F-7083-41FE-86E9-C33E660F902B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253CCFD3-90A4-4AAB-BCC6-BD6C298FE612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253CCFD3-90A4-4AAB-BCC6-BD6C298FE612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253CCFD3-90A4-4AAB-BCC6-BD6C298FE612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253CCFD3-90A4-4AAB-BCC6-BD6C298FE612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D0DB90-36B1-4DEF-A96A-6B1C375B7C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D0DB90-36B1-4DEF-A96A-6B1C375B7C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D0DB90-36B1-4DEF-A96A-6B1C375B7C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D0DB90-36B1-4DEF-A96A-6B1C375B7C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C108A1-9E7F-45A7-8FF5-8793F71BF967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C108A1-9E7F-45A7-8FF5-8793F71BF967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C108A1-9E7F-45A7-8FF5-8793F71BF967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C108A1-9E7F-45A7-8FF5-8793F71BF967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6541D646-1A30-4523-81F3-B0BD7AA56CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6541D646-1A30-4523-81F3-B0BD7AA56CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6541D646-1A30-4523-81F3-B0BD7AA56CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6541D646-1A30-4523-81F3-B0BD7AA56CB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
