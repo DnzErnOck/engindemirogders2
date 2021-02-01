@@ -11,4 +11,4 @@ namespace OOP3
             Console.WriteLine("Vertabbanına loglandı.");
         }
     }
-}
+} 

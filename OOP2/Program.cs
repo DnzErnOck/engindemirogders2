@@ -29,6 +29,7 @@ namespace OOP2
 
             Musteri musteri4 = new TuzelMusteri();
 
+           
             CustomerManager customerManager = new CustomerManager();
             customerManager.Ekle(musteri1);
             customerManager.Ekle(musteri2);
